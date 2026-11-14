@@ -1,0 +1,8 @@
+## Interface: 16001, 11508, 11509, 20505, 20506, 120000, 120001, 120005, 120007, 120100, 120105, 120106, 120107
+## Title: NEXOS Trinket and Action Bars
+## Notes: Independent two-slot trinket swap menu.
+## Author: NexosTeam
+## Version: 1.0.0
+## SavedVariables: NEXOSTrinketActionBarsDB
+Core.lua
+ItemButtons.lua
